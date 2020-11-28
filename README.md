@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Jaime Arriola
 ![banner](https://media-exp1.licdn.com/dms/image/C4D16AQFYCnEMfC7L5w/profile-displaybackgroundimage-shrink_350_1400/0?e=1605139200&v=beta&t=tXnk7sApEIRb6Y3EVrV7c_L4F-S-JeULJ29zuhUCFrc)
 - :gem: My stack is: React, JS, HTML, CSS (Saas),Node
-- 🔭 I’m currently working on improve my skils as JavaScript Developer :star:
-- 🌱 I like to keep learning new technologies :computer: :sunglasses:
-- 👯 I’m looking to collaborate on a remote job position
+- 🔭 I’m love to improve my skils as React Developer :star:
+- 🌱 I love to keep learning new technologies :computer: :sunglasses:
+- 👯 I’m looking for a job as FrontEnd Developer (React JS Dev)
 - 📫 How to reach me: [Twitter](https://twitter.com/JaimeArriola8)
 
 <!--
