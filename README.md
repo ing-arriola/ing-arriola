@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jaime Arriola
-![banner](https://media-exp1.licdn.com/dms/image/C4D16AQFYCnEMfC7L5w/profile-displaybackgroundimage-shrink_350_1400/0?e=1605139200&v=beta&t=tXnk7sApEIRb6Y3EVrV7c_L4F-S-JeULJ29zuhUCFrc)
+![banner](https://media-exp1.licdn.com/dms/image/C4D16AQGBK763W-dKiA/profile-displaybackgroundimage-shrink_350_1400/0/1607548115945?e=1613001600&v=beta&t=y4R7UkEXdRodmA49ztqR8lmh8rSwd3PgQiN06G9cI-c)
 - :gem: My stack is: React, JS, HTML, CSS (Saas),Node
 - 🌱 I love to keep improving my current skills and learn new ones :computer: :sunglasses:
 - 👯 I’m looking for a job as FrontEnd Developer (React JS Dev)
