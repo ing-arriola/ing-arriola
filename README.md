@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Jaime Arriola
 ![1607877886261](https://user-images.githubusercontent.com/37816437/111085415-ec79aa00-84dc-11eb-93ad-127183962146.jpeg)
-- :gem: My stack is: React, JS, HTML, CSS (Saas),Node
+- :gem: My stack is: React, JS, HTML, CSS (Saas),Node and more recently Flutter :sunglasses:
 - 🌱 I love to keep improving my current skills and learn new ones :computer: :sunglasses:
-- 👯 I’m looking for a job as FrontEnd Developer (React JS Dev)
+- 👯 I’m working as FrontEnd Enginner in a pretty awesome company
 - 📫 How to reach me: [Twitter](https://twitter.com/JaimeArriola8)
 
 <!--
