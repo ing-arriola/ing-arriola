@@ -2,8 +2,8 @@
 ![1607877886261](https://user-images.githubusercontent.com/37816437/111085415-ec79aa00-84dc-11eb-93ad-127183962146.jpeg)
 - :gem: My stack is: React, JS, HTML, CSS (Saas), Node, GraphQL , Redux, Firebase, Flutter
 - 🌱 I love to keep improving my current skills and learn new ones :computer: :sunglasses:
-- 👯 I’m working as FrontEnd Enginner in a pretty awesome company
-- 📫 How to reach me: [Twitter](https://twitter.com/JaimeArriola8)
+- 👯 I'm looking for a job as FrontEnd Developer in a pretty awesome company
+- 📫 How to reach me: [Twitter](https://twitter.com/JaimeArriola8) [LinkedIn](https://www.linkedin.com/in/jarriola-dev/)
 
 <!--
 **ing-arriola/ing-arriola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
