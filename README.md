@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jaime Arriola
 ![1607877886261](https://github.com/user-attachments/assets/64efb362-b93b-41b4-8029-d73f407f73ea)
-- :gem: My stack is: React, React Native, Python, Django, Typescript, REST API, GraphQL , Redux, Firebase
+- :gem: My stack is: React, React Native, Python, Django, Typescript, NextJS, Generative AI, REST API, GraphQL , Redux, Firebase
 - 🌱 I love to keep improving my current skills and learn new ones :computer: :sunglasses:
 - 👯 I'm open for FullStack Developer Roles
 - 📫 How to reach me: [Twitter](https://twitter.com/JaimeArriola8) [LinkedIn](https://www.linkedin.com/in/jarriola-dev/)
